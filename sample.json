@@ -1,5 +1,3 @@
-{
-  "data" :
 [
   { "id": 1, "quote": "Small actions create big change." },
   { "id": 2, "quote": "Impact matters more than gifts." },
@@ -12,4 +10,3 @@
   { "id": 9, "quote": "Giving is about compassion, not duty." },
   { "id": 10, "quote": "Use resources wisely for positive change." }
 ]
-}
