@@ -21,11 +21,11 @@
     "mob": "9726666335",
     "website": "https://www.aryavartfoundation.org/",
     "email": "info@aryavarat.com",
-    "instagram": null,
-    "linkedin": null,
+    "instagram": ,
+    "linkedin": ,
     "facebook": "https://www.facebook.com/people/Aryavart-Foundation/100068869735907/",
     "twitter": "https://twitter.com/aryavart_ngo",
-    "youtube": null
+    "youtube": 
   },
   {
     "id": 3,
@@ -34,12 +34,12 @@
     "address": "10/D, Shri Kunthunath Tower, Umra, Surat 395007",
     "mob": "079903 16164",
     "website": "https://jivanamasteya.org/",
-    "email": null,
-    "instagram": null,
-    "linkedin": null,
+    "email": ,
+    "instagram": ,
+    "linkedin": ,
     "facebook": "https://www.facebook.com/JivanamAsteya/",
-    "twitter": null,
-    "youtube": null
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 4,
@@ -48,12 +48,12 @@
     "address": "Shubh Square First Floor, Gotala Vadi, Patelvadi Road, Surat, Near lal Darvaja, Surat, Gujarat",
     "mob": "074879 95555",
     "website": "https://saviorvoluntarybloodbankresearchcenter.business.site/",
-    "email": null,
-    "instagram": null,
-    "linkedin": null,
+    "email": ,
+    "instagram": ,
+    "linkedin": ,
     "facebook": "https://www.facebook.com/svbbsurat/",
-    "twitter": null,
-    "youtube": null
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     "linkedin": "https://www.linkedin.com/in/lok-samarpan-blood-bank-221612a9/",
     "facebook": "https://www.facebook.com/LokSamarpanBloodCamp",
     "twitter": "https://twitter.com/lsbloodbank",
-    "youtube": null
+    "youtube": 
   },
   {
     "id": 6,
@@ -76,12 +76,12 @@
     "address": "1ST Floor Khatodara Health Centre, Near Chosath Jogniomata Temple Udhana Magdalla Road, Surat, Gujarat 395002",
     "mob": "063535 03022",
     "website": "https://srkrc.org/",
-    "email": null,
-    "instagram": null,
-    "linkedin": null,
+    "email": ,
+    "instagram": ,
+    "linkedin": ,
     "facebook": "https://www.facebook.com/www.srkrc.org/",
-    "twitter": null,
-    "youtube": null
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 7,
@@ -90,12 +90,12 @@
     "address": "10/D, Shri Kunthunath Tower, Umra, Surat 395007",
     "mob": "079903 16164",
     "website": "https://jivanamasteya.org/",
-    "email": null,
-    "instagram": null,
-    "linkedin": null,
+    "email": ,
+    "instagram": ,
+    "linkedin": ,
     "facebook": "https://www.facebook.com/JivanamAsteya/",
-    "twitter": null,
-    "youtube": null
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 8,
@@ -103,13 +103,13 @@
     "ngo_name": "JAYPARTH CHARITABLE TRUST",
     "address": "350 1St Floor Harinagar3 Opp. Brc Gate, Udhna, Gujarat 394210",
     "mob": "076981 20820",
-    "website": null,
-    "email": null,
-    "instagram": null,
-    "linkedin": null,
+    "website": ,
+    "email": ,
+    "instagram": ,
+    "linkedin": ,
     "facebook": "https://www.facebook.com/parmarthmission/",
-    "twitter": null,
-    "youtube": null
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 9,
@@ -117,13 +117,13 @@
     "ngo_name": "LIONS CLUB OF SURAT-NAKODA",
     "address": "C-207, City Light, Surat, Gujarat 395007",
     "mob": "092277 27270",
-    "website": null,
-    "email": null,
-    "instagram": null,
-    "linkedin": null,
+    "website": ,
+    "email": ,
+    "instagram": ,
+    "linkedin": ,
     "facebook": "https://www.facebook.com/lionsilkcity/",
-    "twitter": null,
-    "youtube": null
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 10,
@@ -131,13 +131,13 @@
     "ngo_name": "AYUSHYAMAN CHARITABLE TRUST SURAT",
     "address": "A/319,UDHNA UDGYONAGAR,NEAR DIVYA BHASKAR PRESS,UDHNA,SURAT",
     "mob": "9825369495, 0261-2465466",
-    "website": null,
+    "website": ,
     "email": "ayushyamanct8surat@gmail.com",
-    "instagram": null,
-    "linkedin": null,
-    "facebook": null,
-    "twitter": null,
-    "youtube": null
+    "instagram": ,
+    "linkedin": ,
+    "facebook": ,
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 11,
@@ -145,27 +145,27 @@
     "ngo_name": "DINDUNIYA SEWA TRUST",
     "address": "A-701 gulzar avenue ,opp sultania gym khana,new rander road,adajan patia surat pin 395005",
     "mob": "9374142255, 261-2913390",
-    "website": null,
+    "website": ,
     "email": "rhafil2001@yahoo.com",
-    "instagram": null,
-    "linkedin": null,
-    "facebook": null,
-    "twitter": null,
-    "youtube": null
+    "instagram": ,
+    "linkedin": ,
+    "facebook": ,
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 12,
     "category": "Animal Welfare",
     "ngo_name": "SHREE MELDI MAA GRAMODHYOG SANGH",
     "address": "A 71 BHAGUNAGAR SOC SAYAN ROAD AMROLI SURAT 394107, Surat",
-    "mob": null,
-    "website": null,
+    "mob": ,
+    "website": ,
     "email": "mehulbarot_85@rediffmail.com",
-    "instagram": null,
-    "linkedin": null,
-    "facebook": null,
-    "twitter": null,
-    "youtube": null
+    "instagram": ,
+    "linkedin": ,
+    "facebook": ,
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 13,
@@ -175,11 +175,11 @@
     "mob": "9825150024",
     "website": "http://shramjivisevalayasurat.org",
     "email": "hariharthakor@yahoo.com",
-    "instagram": null,
-    "linkedin": null,
-    "facebook": null,
-    "twitter": null,
-    "youtube": null
+    "instagram": ,
+    "linkedin": ,
+    "facebook": ,
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 14,
@@ -187,13 +187,13 @@
     "ngo_name": "MAHILA SAHKARI UDYOG MANDIR LIMITED",
     "address": "Mahila Sahkari Udyog Mandir Limited kanaiyalal Desai And Sarayuben Popatlal Vyas Bhawan nandshankar Mahollo gopipura surat 395003",
     "mob": "9825117259",
-    "website": null,
+    "website": ,
     "email": "psmvikas@hotmail.com",
-    "instagram": null,
-    "linkedin": null,
-    "facebook": null,
-    "twitter": null,
-    "youtube": null
+    "instagram": ,
+    "linkedin": ,
+    "facebook": ,
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 15,
@@ -201,13 +201,13 @@
     "ngo_name": "LIFE LINE CHARITABLE TRUST",
     "address": "B/1202, Sahaj Imperia, Singan Pore, Hari Darshan No Khado, Dabholi, Katargam, Surat, 395004",
     "mob": "9825658483",
-    "website": null,
+    "website": ,
     "email": "gitaliya1981@gmail.com",
-    "instagram": null,
-    "linkedin": null,
-    "facebook": null,
-    "twitter": null,
-    "youtube": null
+    "instagram": ,
+    "linkedin": ,
+    "facebook": ,
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 16,
@@ -217,8 +217,8 @@
     "mob": "+91 2612252942, +91 9687561904",
     "website": "https://globalvisionngo.org/",
     "email": "contact@globalvisionngo.org",
-    "instagram": null,
-    "linkedin": null,
+    "instagram": ,
+    "linkedin": ,
     "facebook": "https://www.facebook.com/GlobalVisiononline/",
     "twitter": "https://twitter.com/globalvisionngo",
     "youtube": "https://www.youtube.com/channel/UCm4CJOQDgAxNYrBOIuQ2ZEQ"
@@ -231,11 +231,11 @@
     "mob": "9825034591",
     "website": "http://www.lokdrashti.org",
     "email": "lok_drashti@yahoo.com",
-    "instagram": null,
-    "linkedin": null,
-    "facebook": null,
-    "twitter": null,
-    "youtube": null
+    "instagram": ,
+    "linkedin": ,
+    "facebook": ,
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 18,
@@ -245,11 +245,11 @@
     "mob": "7567583355",
     "website": "http://www.shree ramkrishnacharitable.org",
     "email": "ramkrishnacahritable@yahoo.com",
-    "instagram": null,
-    "linkedin": null,
-    "facebook": null,
-    "twitter": null,
-    "youtube": null
+    "instagram": ,
+    "linkedin": ,
+    "facebook": ,
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 19,
@@ -257,13 +257,13 @@
     "ngo_name": "SURACHANA EDUCATION AND CHARITABLE TRUST",
     "address": "Surachana Education And Charitable Trust, B-2, City Light Apartment, Parle Point, Surat 395 007, Gujarat, India",
     "mob": "7600684846",
-    "website": null,
+    "website": ,
     "email": "surachanatrust@rediffmail.com",
-    "instagram": null,
-    "linkedin": null,
-    "facebook": null,
-    "twitter": null,
-    "youtube": null
+    "instagram": ,
+    "linkedin": ,
+    "facebook": ,
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 20,
@@ -273,11 +273,11 @@
     "mob": "9898263342",
     "website": "http://shramjivisevalayasurat.org",
     "email": "shramjivimahila@yahoo.com",
-    "instagram": null,
-    "linkedin": null,
-    "facebook": null,
-    "twitter": null,
-    "youtube": null
+    "instagram": ,
+    "linkedin": ,
+    "facebook": ,
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 21,
@@ -287,11 +287,11 @@
     "mob": "096872 21721",
     "website": "jaybharaticsc.org",
     "email": "support@sanvedanango.com",
-    "instagram": null,
-    "linkedin": null,
+    "instagram": ,
+    "linkedin": ,
     "facebook": "https://www.facebook.com/ngosanvedana/",
-    "twitter": null,
-    "youtube": null
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 22,
@@ -301,11 +301,11 @@
     "mob": "9879254855, 9979267746",
     "website": "http://www.nutanngo.org/",
     "email": "ngo.nutan@gmail.com",
-    "instagram": null,
-    "linkedin": null,
-    "facebook": null,
-    "twitter": null,
-    "youtube": null
+    "instagram": ,
+    "linkedin": ,
+    "facebook": ,
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 23,
@@ -314,12 +314,12 @@
     "address": "Poddar Arcade, Surat, Gujarat 395010",
     "mob": "093285 20030",
     "website": "https://sadbhavna-charitable-and.business.site/",
-    "email": null,
-    "instagram": null,
-    "linkedin": null,
-    "facebook": null,
-    "twitter": null,
-    "youtube": null
+    "email": ,
+    "instagram": ,
+    "linkedin": ,
+    "facebook": ,
+    "twitter": ,
+    "youtube": 
   },
   {
     "id": 24,
@@ -327,12 +327,12 @@
     "ngo_name": "PRATIBIMB FOUNDATION-HELPING HAND FOR CHILD EDUCATION",
     "address": "Adajan, Surat, Gujarat 395009",
     "mob": "096196 84561",
-    "website": null,
-    "email": null,
-    "instagram": null,
-    "linkedin": null,
+    "website": ,
+    "email": ,
+    "instagram": ,
+    "linkedin": ,
     "facebook": "https://www.facebook.com/pratibimbfoundation/",
-    "twitter": null,
-    "youtube": null
+    "twitter": ,
+    "youtube": 
   }
 ]
